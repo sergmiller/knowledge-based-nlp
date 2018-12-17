@@ -12,4 +12,4 @@ Semeval2007 - 55.2 (F1)
 
 Semeval2013 - 63.0 (F1)
 
-Semeval2015 - TBA(F1)
+Semeval2015 - 38.3 (F1)
